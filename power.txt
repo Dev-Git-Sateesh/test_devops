@@ -1,3 +1,6 @@
-#POWER
+#!/usr/bin/bash
 
-power is the amount of energy transferred or converted per unit time. In the International System of Units, the unit of power is the watt, equal to one joule per second. In older works, power is sometimes called activity. Power is a scalar quantity
+touch jenkins_file.log
+move jekins_file.log /home/ubuntu
+cd /home/ubuntu
+chmod 777 jenkins_file.log
