@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
 touch jenkins_file.log
-move jekins_file.log /home/ubuntu
-cd /home/ubuntu
+mv jekins_file.log /home/ubuntu/jenkins
+cd /home/ubuntu/jenkins
 chmod 777 jenkins_file.log
